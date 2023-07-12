@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to KYVConnect!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code> Here's an edit!
+          
         </p>
       </main>
 
