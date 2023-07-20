@@ -1,4 +1,5 @@
 // components/Header.js
+import Link from 'next/link';
 import styles from './Header.module.css'; // Import your CSS module
 
 export default function Header(){
