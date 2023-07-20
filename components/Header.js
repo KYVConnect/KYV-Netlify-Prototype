@@ -7,7 +7,7 @@ export default function Header(){
       <header className={styles.header}>
         <nav className={styles.navbar}>
           <div className={styles.logo}>
-            <Link href="/">JobSite</Link>
+            <Link href="/">KYVConnect</Link>
           </div>
           <ul className={styles.navLinks}>
             <li>

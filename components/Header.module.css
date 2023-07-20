@@ -1,8 +1,8 @@
 /* components/Header.module.css */
 
 .header {
-    background-color: #333;
-    color: #fff;
+    background-color: #ffffff;
+    color: #000000;
     padding: 1rem;
 }
 
@@ -28,7 +28,7 @@
 }
 
 .navLinks a {
-    color: #fff;
+    color: #8c8c8c;
     text-decoration: none;
 }
 
