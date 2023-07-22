@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to KYVConnect!" />
-        <p className="description">
-          
-        </p>
+        <Header />
       </main>
 
       <Footer />
