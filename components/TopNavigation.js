@@ -3,8 +3,6 @@ import {AiOutlineSearch} from "react-icons/ai"
 import {CgProfile} from "react-icons/cg"
 import {FiSettings} from "react-icons/fi"
 
-import Link from 'next/Link'
-
 export default function TopNavigation(){
     return(
         <div className='flex justify-between gap-20 border-2 border-red-500 p-4'>
